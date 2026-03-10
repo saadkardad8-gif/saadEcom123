@@ -1,0 +1,13 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 2rem 0;
+}
+h2{
+    color: cadetblue;
+    margin: 1.2rem 0 1.2rem 3rem;
+}
+.products{
+    margin: 1 3rem;
+}
