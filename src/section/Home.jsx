@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <section id="home" className={style.home}>
       <div className={style.slogan}>
-        <h1>Bienvenue dans notre univers ecomApp</h1>
+        <h1>Saad = Bienvenue dans notre univers ecomApp</h1>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio
           delectus nemo odit dolorum. Aliquid illo debitis cupiditate accusamus
