@@ -7,7 +7,7 @@ export default function Products(){
             <div className="{style.grid}">
                 <h2>Nos Produits</h2>
                 {
-                    product.map(p=> (<Product key={p.id} product={p}/>))
+                    products.map(p=> (<Products key={p.id} product={p}/>))
                 }
             </div>
         </section>
